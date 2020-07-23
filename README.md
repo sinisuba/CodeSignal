@@ -1,1 +1,1 @@
-CodeSignal.com - SOLVED PROBLEMS
+Solved problems @ https://codesignal.com/
